@@ -16,6 +16,9 @@ It needs no coding: upload a spreadsheet and read the results.
 
 ## Run
 
+**Online (no installation):** https://neo-metrics.shinyapps.io/raterAudit
+
+**Locally:** 
 Requires R 4.1 or later.
 
 ```r
